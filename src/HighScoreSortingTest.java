@@ -32,9 +32,4 @@ public class HighScoreSortingTest {
             System.out.println("High Score sorting test failed! The scores are not sorted correctly.");
         }
     }
-
-    private static void updateHighScores(int[] scores) {
-        // Implementation to update the high scores
-        // ...
-    }
 }
